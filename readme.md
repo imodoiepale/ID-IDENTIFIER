@@ -1,4 +1,4 @@
-* HTML Field ID Extractor*
+ # HTML Field ID Extractor
 
 **Description:**
 The HTML Field ID Extractor is a powerful tool designed to automate the process of capturing HTML element IDs from web pages. In the realm of web automation and testing, identifying and interacting with specific elements is crucial. This tool streamlines the identification of input fields, select dropdowns, and date pickers by extracting their unique IDs.
